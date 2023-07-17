@@ -1,0 +1,27 @@
+body{
+    background-color: #EAF6F6;
+  
+  }
+  h1{
+    color: #66BFBF;
+  }
+
+  h2{
+    color: navy;
+
+  }
+
+  h3{
+    color: #66BFBF;
+  }
+
+  h4{
+    color: deeppink;
+  }
+  
+  hr{
+    background-color: white;
+    border-style: none;
+    height: 2px;
+  }
+  
